@@ -1,4 +1,6 @@
 #Prodighy Task 04
+
+
 This project implements a hand gesture recognition system using ResNet50 pretrained on ImageNet and fine-tuned on the Leap Motion Gesture Recognition Dataset
 . The model classifies different hand gestures from image data, enabling intuitive human-computer interaction and gesture-based control systems.
 
