@@ -42,7 +42,7 @@ Robust recognition suitable for real-world HCI applications
 
 ⚡ Usage
 1️⃣ Clone the repository
-git clone https://github.com/your-username/gesture-recognition.git
+git clone [https://github.com/your-username/gesture-recognition.git](https://github.com/12saika/PRODIGHY_ML_Task_4.git)
 cd gesture-recognition
 
 2️⃣ Install dependencies
